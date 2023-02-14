@@ -3,3 +3,8 @@
 Lib/
 Scripts/
 pyvenv.cfg
+# DJANGO
+*.log
+*.pot
+*.pyc
+__pycache__
