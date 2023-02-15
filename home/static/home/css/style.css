@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background: url('../img/fundo.jpeg');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+header div {
+    padding-top: 10px;
+}
+
+header div h1 {
+    border: 3px solid white;
+    display: block;
+    margin: auto;
+    font-size: 28px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+nav {
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav li {
+    padding: 8px;
+}
+
+/*    display: grid;
+    grid-template-columns: 300px 500px;
+    grid-template-rows: 80px;*/
