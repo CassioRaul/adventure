@@ -3,6 +3,7 @@
 Lib/
 Scripts/
 pyvenv.cfg
+base_statics/global/img/bootstrap-icons/
 # DJANGO
 *.log
 *.pot
